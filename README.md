@@ -6,4 +6,3 @@ Bem-vindo ao repositório do Menu_treinamento! Este projeto é desenvolvido por 
 
 - HTML
 - CSS
-# Menu_treinamento
